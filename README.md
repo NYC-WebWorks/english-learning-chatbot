@@ -2,6 +2,10 @@
 
 This is a simple chatbot built with Node.js that leverages the OpenAI API to help users learn English. Users can input a word, and the chatbot will provide definitions, example sentences, and explanations to assist in learning English vocabulary.
 
+## Screenshot
+
+![Screenshot of web app](./screenshot.png)
+
 ## Features
 
 - **Word Definition**: Provides a detailed definition of the input word.
@@ -62,10 +66,6 @@ To interact with the chatbot:
 1. Open your terminal.
 2. Run the app using `npm start`.
 3. Input a word and the chatbot will respond with a definition, example sentences, and an explanation to help you learn how to use the word in English.
-
-## Screenshot
-
-![Screenshot of web app](./screenshot.png)
 
 ## Contributing
 
